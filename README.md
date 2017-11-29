@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 microblog
 =========
 
@@ -15,3 +16,6 @@ Running
 
 To run the application in the development web server just execute `run.py` with the Python interpreter from the flask virtual environment.
 
+=======
+# microblog
+>>>>>>> a03bc50cc7b38b1afdbe0cadf26be004280341f4
